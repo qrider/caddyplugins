@@ -1,4 +1,4 @@
-module github.com/qrider/caddy-plugins/header2cookie
+module github.com/qrider/caddyplugins/header2cookie
 
 go 1.13
 
